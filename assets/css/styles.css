@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+}
+nav{
+    background-color: white;
+}
+
+.holiday-card{
+    margin-bottom: 3rem;
+    line-height:.8rem;
+}
+
+.deal-of-day-text{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+}
+
+.deal-of-day-button{
+    width:15vw;
+}
+
+.feedback{
+    background:white;
+    flex-direction: column;
+}
+
+#deal-of-the-day{
+    background: white;
+}
